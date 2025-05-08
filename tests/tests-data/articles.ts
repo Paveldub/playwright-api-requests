@@ -2,8 +2,8 @@ export const mockArticles = {
       "articles": [
         {
           "slug": "mock-article-1",
-          "title": "Vitalina title",
-          "description": "Vitalina description",
+          "title": "Vitalina MOCK title",
+          "description": "Vitalina MOCK description",
           "body": "Mock article body",
           "tagList": ["test", "mock"],
           "createdAt": new Date().toISOString(),

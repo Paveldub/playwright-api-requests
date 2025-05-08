@@ -1,7 +1,7 @@
 export const mockTags = {
     "tags": [
-      "Pavel",
-      "Playwright",
-      "test"
+      "Pavel MOCK",
+      "Playwright MOCK",
+      "test MOCK"
     ]
 };
