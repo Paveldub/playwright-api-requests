@@ -1,14 +1,1 @@
-{
-  "cookies": [],
-  "origins": [
-    {
-      "origin": "https://conduit.bondaracademy.com",
-      "localStorage": [
-        {
-          "name": "jwtToken",
-          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoyNjQ0NX0sImlhdCI6MTc0NjcyNDE4MSwiZXhwIjoxNzUxOTA4MTgxfQ.1HeOPcAMm8phZLDrogBIUvEaY_eehKBmyttbgACKPxo"
-        }
-      ]
-    }
-  ]
-}
+{"cookies":[],"origins":[{"origin":"https://conduit.bondaracademy.com","localStorage":[{"name":"jwtToken","value":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoyNjQ0NX0sImlhdCI6MTc0NjcyNTkxNiwiZXhwIjoxNzUxOTA5OTE2fQ.2RR2CChjtUZMLY1dr8LQpIWhWqrJ4smJXKWCERs2__g"}]}]}
